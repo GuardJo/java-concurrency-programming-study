@@ -7,3 +7,5 @@ Java 동시성 프로그래밍 학습
 [동시성과 병렬성](./docs/1.%20OS%20basic/Parrallel%20and%20Concurrent.md)
 
 [Context Switching](./docs/1.%20OS%20basic/Context%20Switch.md)
+
+[CPU Bound and I/O Bound](./docs/1.%20OS%20basic/CPU%20Bound%20and%20IO%20Bound.md)

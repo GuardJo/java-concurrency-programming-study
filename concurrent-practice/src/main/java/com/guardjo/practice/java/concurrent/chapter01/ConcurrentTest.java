@@ -68,6 +68,8 @@ public class ConcurrentTest {
 
         System.out.println("result : " + result);
         System.out.println("Execute Time : " + (finishTime - startTime) + "ms");
+
+        executor.shutdown();
     }
 
     static class TestTask implements Callable<Integer> {
