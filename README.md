@@ -18,3 +18,5 @@ Java 동시성 프로그래밍 학습
 [Thread 생성](./docs/2.%20Java%20Thread%20Basic/Create%20Thread.md)
 
 [Thread 실행 및 종료](./docs/2.%20Java%20Thread%20Basic/Thread%20Execute%20and%20Shutdown.md)
+
+[Thread 상태 및 생명주기](./docs/2.%20Java%20Thread%20Basic/Thread%20Lifecycle%20and%20State.md)
