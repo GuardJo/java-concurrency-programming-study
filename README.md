@@ -25,3 +25,5 @@ Java 동시성 프로그래밍 학습
 [Thread Sleep](./docs/3.%20Java%20Thread%20Api/Thread%20Sleep.md)
 
 [Thread Join](./docs/3.%20Java%20Thread%20Api/Thread%20Join.md)
+
+[Thread Interrupt](./docs/3.%20Java%20Thread%20Api/Thread%20Interrupt.md)
