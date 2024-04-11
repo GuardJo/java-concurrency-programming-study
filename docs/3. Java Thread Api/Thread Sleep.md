@@ -1,4 +1,4 @@
-> Java Thread API : Sleep
+ > Java Thread API : Sleep
 
 # sleep()
 Java의 `Thread` 관련 제공 메소드로써, 현재 `Thread`를 일정 시간동안 `TIMED_WAITING` 상태로 전환한다.
