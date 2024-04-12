@@ -31,3 +31,6 @@ Java 동시성 프로그래밍 학습
 [Thread Info](./docs/3.%20Java%20Thread%20Api/Thread%20Info.md)
 
 [Thread Priority](./docs/3.%20Java%20Thread%20Api/Thread%20Priority.md)
+
+## Java Thread Utils
+[Thread 예외 처리](./docs/4.%20Java%20Thread%20Utils/Thread%20Catch%20Exception.md)
