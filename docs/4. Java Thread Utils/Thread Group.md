@@ -1,4 +1,4 @@
-> Thread Group
+ > Thread Group
 
 # Thread Group
 Java 에서는 `ThreadGroup` 이라는 객체를 통해 여러 `Thread`들을 그룹화하여 관리할 수 있도록 관련 객체 및 메소드들을 제공한다.
