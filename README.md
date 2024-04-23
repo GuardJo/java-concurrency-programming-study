@@ -45,3 +45,5 @@ Java 동시성 프로그래밍 학습
 
 ## Synchronization Basic
 [Single Thread와 Multi Thread](./docs/5.%20Synchronization%20Basic/Single%20Thread%20and%20Multi%20Thread.md)
+
+[Synchronization and CPU](./docs/5.%20Synchronization%20Basic/Synchronization%20and%20CPU.md)
