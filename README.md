@@ -51,3 +51,6 @@ Java 동시성 프로그래밍 학습
 [Critical Section](./docs/5.%20Synchronization%20Basic/Critical%20Section.md)
 
 [Thread Safe](./docs/5.%20Synchronization%20Basic/Safety%20Thread.md)
+
+## Synchronization Technic
+[Mutex](./docs/6.%20Syncronization%20Technic/Mutual%20Exclusion.md)
