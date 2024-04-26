@@ -53,4 +53,6 @@ Java 동시성 프로그래밍 학습
 [Thread Safe](./docs/5.%20Synchronization%20Basic/Safety%20Thread.md)
 
 ## Synchronization Technic
-[Mutex](./docs/6.%20Syncronization%20Technic/Mutual%20Exclusion.md)
+[Mutex](./docs/6.%20Synchronization%20Technic/Mutual%20Exclusion.md)
+
+[Semaphore](./docs/6.%20Synchronization%20Technic/Semaphore.md)
