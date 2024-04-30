@@ -56,3 +56,5 @@ Java 동시성 프로그래밍 학습
 [Mutex](./docs/6.%20Synchronization%20Technic/Mutual%20Exclusion.md)
 
 [Semaphore](./docs/6.%20Synchronization%20Technic/Semaphore.md)
+
+[Monitor](./docs/6.%20Synchronization%20Technic/Monitor.md)
